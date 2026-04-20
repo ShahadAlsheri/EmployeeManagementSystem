@@ -1,11 +1,3 @@
-/*
-Shahad Rafi Alshehri
-2306119
-ICS
-Assignment 1
- */
-package assignment2;
-
 import java.time.*;
 
 public class Manager extends Employee implements Approver {
