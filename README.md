@@ -1,5 +1,5 @@
-# CPCS203_Programming2_EmployeeManagementSystem
-# Employee Management System (CPCS203 - Programming 2)
+# EmployeeManagementSystem
+# Employee Management System
 
 ## Project Overview
 This is a simple Employee Management System implemented in Java.  
@@ -32,4 +32,3 @@ It manages employees of different types (Manager, Developer, Designer), handles 
 - Control structures (`if`, `switch`, `for`, `while`)
 - Date and Time handling (`LocalDate`)
 - No external libraries are required.  
-- This is an academic project for CPCS203.
