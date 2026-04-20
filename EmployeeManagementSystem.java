@@ -1,11 +1,3 @@
-/*
-Shahad Rafi Alshehri
-2306119
-ICS
-Assignment 2
- */
-package assignment2;
-
 import java.util.*;
 import java.time.*;
 import java.io.*;
