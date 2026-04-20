@@ -1,10 +1,3 @@
-package assignment2;
-/*
-Shahad Rafi Alshehri
-2306119
-ICS
-Assignment 2
- */
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;
